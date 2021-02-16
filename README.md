@@ -1,2 +1,2 @@
 # python
-Repository to store everything I learn related to python
+Repository to store programs in python.
